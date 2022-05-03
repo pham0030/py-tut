@@ -1,0 +1,3 @@
+api_url: https://gorest.co.in/public/v2/users
+save_dir: /workspaces/python-tutorials
+save_file: users.json
